@@ -1,5 +1,5 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
+
+# One page Portfolio Website created with HTML, CSS and JavaScript
 
 ### Made with ❤️ by [Haidari](https://instagram.com/arman_haidarii?igshid=OGQ5ZDc2ODk2ZA==)
 
